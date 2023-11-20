@@ -1,0 +1,21 @@
+[{
+  "name": "Kaneki Ken",
+  "age": 24,
+  "img": "images/kaneki.webp",
+  "rank": "SSSR+",
+  "kagune": "Mukade"
+},
+  {
+    "name": "Furuta Nimura" ,
+    "age": 25,
+    "img": "images/furuta.webp",
+    "rank": "SSS+",
+    "kagune": "Rinkaku"
+  },
+  {
+    "name": "Seidou Takizawa" ,
+    "age": 23,
+    "img": "images/takizawa.png",
+    "rank": "SS+",
+    "kagune": "Ukaku"
+  }]
